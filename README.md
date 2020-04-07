@@ -7,6 +7,8 @@ Adding new paragraph introduction
 
 ## Purpose
 
+Adding purpose for the project
+
 ## Deployment
 
 ## How to contribute
