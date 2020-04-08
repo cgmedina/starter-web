@@ -11,4 +11,8 @@ Adding purpose for the project
 
 ## Deployment
 
+Another thing
+
 ## How to contribute
+
+One more line
